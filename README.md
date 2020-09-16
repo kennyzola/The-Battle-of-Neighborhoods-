@@ -1,0 +1,2 @@
+# The-Battle-of-Neighborhoods-
+This project aims to predict where to set up a new Indian restaurant in the neighborhood of Queens where there is none within 400 metres. Other parameters are used to determine the precise position on which to concentrate. Stakeholders will be involved in forecasting precisely where a new Indian restaurant would be situated for competitive advantage and business values. Others who'll be involved include Indians in that locality.
